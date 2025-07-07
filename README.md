@@ -19,23 +19,12 @@ The micromouse is equipped with:
 
 ## 🔌 Hardware Components
 
-- **STM32F103 "Blue Pill"** board (programmed via Arduino IDE)
-- IR Sensors (e.g., TCRT5000 modules)
-- MPU6050 or BNO085 for IMU data
-- Wheel encoders
-- Dual motor driver (DRV8833)
-- 3.7V Li-ion battery + boost converter
-- Custom chassis and PCB
+
 
 ---
 
 ## 📁 Repository Contents
 
-- `Arduino_Code/` – Main control code and configuration
-- `Drivers/` – Custom sensor/motor libraries
-- `MazeSolver/` – Flood Fill and movement logic
-- `Hardware/` – Schematics and PCB designs
-- `Docs/` – Project images, logs, and reference materials
 
 ---
 
